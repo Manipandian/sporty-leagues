@@ -18,6 +18,7 @@ This project was built as a frontend development assessment, demonstrating:
 - **Vite** - Build tool and dev server
 - **Material-UI** - Component library
 - **Axios** - HTTP client
+- **gh-paged** - for static site deplyment
 
 ## Features
 
@@ -59,6 +60,8 @@ npm run dev
 ```
 
 The application will be available at `http://localhost:5173`
+
+Application also deplyed at `https://manipandian.github.io/sporty-leagues/` using gh-pages
 
 ### Production Build
 
